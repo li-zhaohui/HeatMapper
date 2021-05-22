@@ -1,0 +1,10 @@
+D:\Task\004_Current\ColorConvertor\ColorConvertor\bin\Debug\ColorConvertor.exe.config
+D:\Task\004_Current\ColorConvertor\ColorConvertor\bin\Debug\ColorConvertor.exe
+D:\Task\004_Current\ColorConvertor\ColorConvertor\bin\Debug\ColorConvertor.pdb
+D:\Task\004_Current\ColorConvertor\ColorConvertor\obj\Debug\ColorConvertor.csprojAssemblyReference.cache
+D:\Task\004_Current\ColorConvertor\ColorConvertor\obj\Debug\ColorConvertor.Form1.resources
+D:\Task\004_Current\ColorConvertor\ColorConvertor\obj\Debug\ColorConvertor.Properties.Resources.resources
+D:\Task\004_Current\ColorConvertor\ColorConvertor\obj\Debug\ColorConvertor.csproj.GenerateResource.cache
+D:\Task\004_Current\ColorConvertor\ColorConvertor\obj\Debug\ColorConvertor.csproj.CoreCompileInputs.cache
+D:\Task\004_Current\ColorConvertor\ColorConvertor\obj\Debug\ColorConvertor.exe
+D:\Task\004_Current\ColorConvertor\ColorConvertor\obj\Debug\ColorConvertor.pdb
